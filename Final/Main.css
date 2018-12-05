@@ -1,0 +1,26 @@
+body{
+	font-family: Arial,Helvitica,sans-serif;
+	background-color: lightblue;
+
+}
+
+a{
+	color: red;
+}
+a:hover{
+	color:black;
+}
+/* Navigation Styles*/
+
+nav li{
+	display: inline;
+}
+
+nav a {
+	display: inline-block;
+	padding: 20px
+}
+
+nav a:hover{
+	background-color: grey;
+}
